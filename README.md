@@ -5,8 +5,11 @@ Climate change prediction using the decision tree model
 The temperature of any place in mainly dependent on 5 factors.
 In this code we use the decision tree model to correlate the relation between atmospheric pressure and temperature over the past years.
 To run the code:
+
 1.Enter the name of the place you want prediction for
+
 2.Enter start and end dates.
+
 3.Matplotlib module is used to show the predicted v/s actual temperature
 
 With this model we can see that there is a significant difference in the predicted temperature and the actual temperature. This means that climate change is real and it should be a problem we all are supposed to be concerned about.
