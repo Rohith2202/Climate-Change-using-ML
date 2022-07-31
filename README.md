@@ -1,9 +1,9 @@
 ﻿# Climate-Change-using-ML
 
 
-Climate change prediction using the decision tree model
+Climate change prediction using the linear regression model
 The temperature of any place in mainly dependent on 5 factors.
-In this code we use the decision tree model to correlate the relation between atmospheric pressure and temperature over the past years.
+In this code we use the linear regression model to correlate the relation between atmospheric pressure and temperature over the past years.
 To run the code:
 
 1.Enter the name of the place you want prediction for
